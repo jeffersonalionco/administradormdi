@@ -1,6 +1,7 @@
 # administradormdi
 
-Sempre use o npm install no inicio o projeto! para atualizar tudo
+clonar: 
+> git clone https://github.com/jeffersonalionco/administradormdi.git
 
 ### Alguns enventos ja disponiveis 
   - Mensagens de Boas Vinda no Grupo
