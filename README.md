@@ -1,6 +1,8 @@
-# administradormdi
+# Bot Whatsapp API - administradormdi
 
-## Como utilizar o Projeto
+## Como utilizar o Projeto 
+
+Abra seu Prompt de comando ou CMD, e digite os comandos a seguir
 
 > Primeiro clonar o Projeto: ```git clone https://github.com/jeffersonalionco/administradormdi.git```
 
