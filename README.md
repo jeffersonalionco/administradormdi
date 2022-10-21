@@ -3,3 +3,8 @@
 Sempre use o npm install no inicio o projeto! para atualizar tudo
 
 ### Alguns enventos ja disponiveis 
+  - Mensagens de Boas Vinda no Grupo
+  - Notificação de quem saiu no grupo 
+  - Notificação de quem foi promovido(a)
+  - Notificação de quem foi despromovido
+  - E Api IBGE de noticias atraves de comandos
